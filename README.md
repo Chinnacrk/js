@@ -28,6 +28,6 @@
 ```html
 <html>
  <head></head>
- <body></body>
+ <body class="myBody"></body>
 </html>
 ```
