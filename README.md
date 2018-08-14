@@ -1,3 +1,3 @@
 # js
 
-My JS Notes
+### My JS Notes
