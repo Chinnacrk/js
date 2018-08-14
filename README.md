@@ -5,16 +5,16 @@ D-Delete
 
 We can create CRUD web application using front-end+ backend
 
-#Front-end
+# Front-end
 HTML
 CSS - Bootstrap
 JS - jQuery, Angular/React
 
-#Backend
-##Programming languages:
+# Backend
+## Programming languages:
 PHP/Java/.Net-CSharp/Python/Ruby on rails/
 
-##Database
+## Database
 mySQL/SQL Server/MongoDB/PL SQL,... ect
 
 
