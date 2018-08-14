@@ -8,11 +8,13 @@
 | 2 | `forEach()` |dfkjhg;dkjfg |
 
 
-```
+```javascript
 
  var iamVariable = "yes";
  
  funstion iamFunc(){
  ...
  }
+ 
+ p{ color: red;}
 ```
