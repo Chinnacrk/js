@@ -23,3 +23,11 @@
  
  p{ color: red;}
 ```
+
+
+```html
+<html>
+ <head></head>
+ <body></body>
+</html>
+```
