@@ -2,6 +2,6 @@
 
 # My JS Notes
 
-```javascript
- alert(hylo SEXY)
-```
+|S.no|Methods|
+|---|---|
+| 1 | `isNaN` |
