@@ -2,6 +2,7 @@
 
 # My JS Notes
 
-|S.no|Methods|
-|---|---|
-| 1 | `isNaN` |
+|S.no|Methods| Description|
+|---|---|---|
+| 1 | `isNaN` | dsjfgdjhg |
+| 2 | `forEach()` |dfkjhg;dkjfg |
