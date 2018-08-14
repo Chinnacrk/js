@@ -8,7 +8,7 @@
 | 2 | `forEach()` |dfkjhg;dkjfg |
 
 
-```javascript
+```
 
  var iamVariable = "yes";
  
