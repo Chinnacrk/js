@@ -6,3 +6,13 @@
 |---|---|---|
 | 1 | `isNaN` | dsjfgdjhg |
 | 2 | `forEach()` |dfkjhg;dkjfg |
+
+
+```javascript
+
+ var iamVariable = "yes";
+ 
+ funstion iamFunc(){
+ ...
+ }
+```
